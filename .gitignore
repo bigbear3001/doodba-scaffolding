@@ -16,6 +16,7 @@ docker-compose.yml
 
 # Editor garbage folders
 .vscode
+.idea
 
 # Project-specific docker configurations
 .docker
